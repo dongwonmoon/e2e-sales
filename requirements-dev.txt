@@ -1,0 +1,17 @@
+# Main Application Dependencies
+pandas
+psycopg2-binary
+pendulum
+mlflow
+lightgbm
+scikit-learn
+fastapi
+uvicorn
+requests
+plotly
+
+# CI/CD Tooling
+ruff
+mypy
+pytest
+httpx # For testing FastAPI endpoints
